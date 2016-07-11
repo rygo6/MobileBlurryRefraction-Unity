@@ -10,4 +10,5 @@ View a video of it running here:
 View a WebGL build of it here:
 - http://ryangoodrich.info/RefractionWebGL/
 
-This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+License
+- http://licence.visualidiot.com
