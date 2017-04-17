@@ -9,6 +9,3 @@ View a video of it running here:
 
 View a WebGL build of it here:
 - http://ryangoodrich.info/RefractionWebGL/
-
-License
-- http://licence.visualidiot.com
